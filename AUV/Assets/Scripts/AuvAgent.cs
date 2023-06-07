@@ -52,7 +52,7 @@ public class Sensor
 
  
     /// It checks whether there is a Raycast hit with obstacle. 
-    /// If there is a hit, it returns hit distance. If there is no hit, it returns max distance (150 m) <summary>
+    /// If there is a hit, it returns hit distance. If there is no hit, it returns max distance (150 m) 
     /// It neglects "Target" as obstacle.
     public float CalcDistance()
     {
