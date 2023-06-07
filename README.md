@@ -2,6 +2,7 @@
 * Project presentation is ready in docs.
 * "AUV Static Environment Simulation" can be run directly in releases.
 * To create Unity Environment to train and simulation the Agent, please follow the instructions below.
+* [Agent Code](AUV/Assets/Scripts/AuvAgent.cs)
 
 ## Prerequests
 
