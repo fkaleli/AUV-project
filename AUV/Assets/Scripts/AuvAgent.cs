@@ -27,7 +27,7 @@ public class Sensor
     }
 
   
-    /// Get the direction vestor information from AUV transform object 
+    /// Get the direction vector information from AUV transform object 
     private Vector3 GetDirection()
     {
         Vector3 vector;
